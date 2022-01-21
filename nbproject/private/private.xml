@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/connexion/Connexion.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/entities/Section.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/scripts/section.js</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/section1.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/controller/PlaceController.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/include/header.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/scripts/place.js</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/entities/Place.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/controller/SectionController.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/test/Test.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/test/TestPlace.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/include/sidebar.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/dao/IDao.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/login.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/service/PLaceService.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/include/css.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/place.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/include/js.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/entities/Login.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/index.html</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/include/footer.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/section.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/index1.jsp</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/service/SectionService.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/src/java/test/TestSection.java</file>
+            <file>file:/C:/Users/dell/Documents/NetBeansProjects/Java-GestionParking/web/scripts/login.js</file>
+        </group>
+    </open-files>
+</project-private>
